@@ -3,4 +3,3 @@ class Student
 
 
 end
-  
